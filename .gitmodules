@@ -1,0 +1,3 @@
+[submodule "gigufit-unity"]
+	path = gigufit-unity
+	url = https://github.com/farkas93/gigufit-unity
