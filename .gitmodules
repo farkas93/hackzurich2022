@@ -1,3 +1,6 @@
 [submodule "gigufit-unity"]
 	path = gigufit-unity
 	url = https://github.com/farkas93/gigufit-unity
+[submodule "gigufit-restapi"]
+	path = gigufit-restapi
+	url = https://github.com/farkas93/gigufit-restapi
