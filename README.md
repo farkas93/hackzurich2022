@@ -4,7 +4,7 @@
 ## What is Klaus die Maus?
 Klaus die Maus is an virtual reality therapy environment, where you learn to overcome your claustrophobia.
 It will help you reach your goal by measuring your stress level and adjusting the virtual reality environment accordingly.
-![Klaus die Maus](klausdiemaus.png)
+![Klaus die Maus](kalusdiemaus.png)
 
 ## Motivation
 
