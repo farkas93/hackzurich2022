@@ -4,3 +4,6 @@
 [submodule "gigufit-restapi"]
 	path = gigufit-restapi
 	url = https://github.com/farkas93/gigufit-restapi
+[submodule "giglefit-hrmonitor"]
+	path = giglefit-hrmonitor
+	url = https://github.com/farkas93/giglefit-hrmonitor
