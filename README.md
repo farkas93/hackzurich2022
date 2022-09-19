@@ -24,11 +24,13 @@ To create an immersive experience we are using an Oculus Quest. The patient can 
 By walking into a tunnel we are trying to trigger the fear of the patient.
 The monitored health data does influences the virtual therapy session.
 
+[Project video on Youtube](https://www.youtube.com/watch?v=ZHZ7gAZkzog)
+
 ## Why Klaus?
 
 Our therapy environment can be adapted to individual needs of each patient. This leads to better results and unlimited therapies.
 
-## Challanges we ran into
+## Challenges we ran into
 
 To collect the health data real time and synchronie it with the virutal environment was quite a challange.
 
