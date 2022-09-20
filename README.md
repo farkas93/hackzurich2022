@@ -1,5 +1,5 @@
 # Klaus die Maus - A Project from HackZurich 2022
-Aus die Maus mit der Klaustrophobie! Klaus die Maus, ist dein virtueller alter Ego zu Not um die Klaustrophobie zu überwinden!
+Aus die Maus mit der Klaustrophobie! Klaus die Maus ist dein virtueller Alter-Ego zu Not um die Klaustrophobie zu überwinden!
 
 ## What is Klaus die Maus?
 Klaus die Maus is an virtual reality therapy environment, where you learn to overcome your claustrophobia.
